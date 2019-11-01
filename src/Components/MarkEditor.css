@@ -1,0 +1,14 @@
+.App-Editor {
+    width: 100%;
+    height: 100%;
+    font-size: 14px;
+    
+    background: #202020;
+    display: inline-block;
+}
+.react-codemirror2 {
+    height: 100%;
+}
+.CodeMirror.cm-s-mdn-like {
+    height: 100%;
+}
